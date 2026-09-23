@@ -117,3 +117,4 @@ In Xcode use these steps:
 3. Find the Localizations section
 4. Add the language with the + button
 5. Use the menu Product > Export Localizations > geteduroam… and pick a location to store the output
+   
